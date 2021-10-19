@@ -1,0 +1,22 @@
+.col info{
+  height: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+  .info{
+    width: 400px;
+    height: 100px;
+    align-items: center;
+ justify-content: center;
+ padding-left: 40px;
+ padding-top: 30px;
+ padding-right: 30px;
+  }
+
+  .list-inline-item {
+  display: inline-block;
+  font-size: 40px;
+  padding-right: 10px;
+}
