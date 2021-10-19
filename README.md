@@ -7,8 +7,7 @@
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
-
-## Overview
+##Screenshot
 ### Screenshot for Desktop
 <img src = “Desinger-portofilo-Template/portofilo image/home.png”>
 <img src = “Desinger-portofilo-Template/portofilo image/about.png”>
@@ -20,7 +19,6 @@
 <img src = “Desinger-portofilo-Template/portofilo image/about-mobile.png”>
 <img src = “Desinger-portofilo-Template/portofilo image/contact-mobile.png”>
 
-## My process
 
 ### Built with
 
