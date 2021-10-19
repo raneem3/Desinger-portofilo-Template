@@ -7,7 +7,7 @@
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
-### screenshot
+### Screenshot
 ### Screenshot for Desktop
 ![Home image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/home.png)
 ![About image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/about.png)
