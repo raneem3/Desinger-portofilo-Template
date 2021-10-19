@@ -9,6 +9,9 @@
 
 ### screenshot
 ### Screenshot for Desktop
+![Home image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/home.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 <img src = “Desinger-portofilo-Template/portofilo image/home.png”>
 <img src = “Desinger-portofilo-Template/portofilo image/about.png”>
 <img src = “Desinger-portofilo-Template/portofilo image/contact.png”>
