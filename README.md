@@ -9,16 +9,16 @@
 
 ### Screenshot
 ### Screenshot for Desktop
-![Home image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/home.png)
-![About image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/about.png)
-![contact image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/contact.png)
+![Home image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/home.png)
+![About image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/about.png)
+![contact image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/contact.png)
 
 
 ### Screenshot for Mobile or small screen devices
-![Home nav image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/mobile-nav.png)
-![Home image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/home-mobile.png)
-![about image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/about-mobile.png)
-![contact image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/contact-mobile.png)
+![Home nav image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/mobile-nav.png)
+![Home image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/home-mobile.png)
+![about image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/about-mobile.png)
+![contact image](https://github.com/raneem3/images/blob/main/Desinger-portofilo-Template/contact-mobile.png)
 
 
 ### Built with
