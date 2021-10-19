@@ -7,7 +7,7 @@
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
-##Screenshot
+### screenshot
 ### Screenshot for Desktop
 <img src = “Desinger-portofilo-Template/portofilo image/home.png”>
 <img src = “Desinger-portofilo-Template/portofilo image/about.png”>
