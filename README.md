@@ -33,7 +33,7 @@
 ### Useful resources
 
 - [w3schools](https://www.w3schools.com/)
-- [w3schools](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 ## Author
 
