@@ -9,7 +9,7 @@
 
 ### Screenshot
 ### Screenshot for Desktop
-![Home image](/screenshot/Desinger-portofilo-Template/home.png)
+![Home image](/screenshot/home.png)
 ![About image](/screenshot/about.png)
 ![contact image](/screenshot/contact.png)
 
